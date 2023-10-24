@@ -1,0 +1,14 @@
+body {
+    background:#fffb00
+}
+
+h1 {
+    color: peachpuff; background:brown;
+}
+p {
+    text-align:center;
+}
+
+em strong {
+    color: rgb(0, 255, 0);
+}
